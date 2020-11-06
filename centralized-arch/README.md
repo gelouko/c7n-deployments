@@ -1,4 +1,4 @@
-# Centralized Cloud Custodia Deployment
+# Centralized Cloud Custodian Deployment
 
 This is a multi-account architecture for real-time compliance with Cloud Custodian.
 
@@ -44,9 +44,9 @@ policies:
 
 To install this architecture in your AWS Organization, you just have to run `terraform apply` in these 2 terraform templates:
 
-The Cloud Custodian Account Template
+[The Cloud Custodian Account Template](/gelouko/c7n-deployments/tree/master/centralized-arch/cloud-custodian-account-template)
 
-The Developer Account Template
+[The Developer Account Template](/gelouko/c7n-deployments/tree/master/centralized-arch/developer-account-template)
 
 ### Cloud Custodian Account Template
 
