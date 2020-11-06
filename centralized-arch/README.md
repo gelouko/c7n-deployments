@@ -44,9 +44,9 @@ policies:
 
 To install this architecture in your AWS Organization, you just have to run `terraform apply` in these 2 terraform templates:
 
-[The Cloud Custodian Account Template](centralized-arch/cloud-custodian-account-template)
+[The Cloud Custodian Account Template](cloud-custodian-account-template)
 
-[The Developer Account Template](centralized-arch/developer-account-template)
+[The Developer Account Template](developer-account-template)
 
 ### Cloud Custodian Account Template
 
